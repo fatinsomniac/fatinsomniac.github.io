@@ -1,0 +1,67 @@
+.page_intro .animp{
+transform: translateY(0) skewY(0deg);
+opacity: 1;
+display: inline-block;
+transition: all 0.7s;
+}
+
+.anim_intro.page_intro .animp{
+transform: translateY(8px) skewY(0deg);
+opacity: 0;
+}
+
+.section .img{overflow: hidden;}
+
+.section .img img{
+transform: scale(1.02);
+transition: all 2s;
+display: block;
+transition-delay: 0.4s;
+}
+
+.bg_img_1{
+
+/*filter: blur(1px);
+*/-webkit-animation: in_img 3s ease-out; /* Safari 4.0 - 8.0 */
+animation: in_img 3s ease-out;
+-webkit-animation-fill-mode:forwards;
+animation-fill-mode:forwards;
+animation-delay: 0s;
+position: absolute;
+}
+
+@-webkit-keyframes in_img {
+0%   {transform: scale(1.05);}
+100% {transform: scale(1);opacity: 1}
+}
+
+/* Standard syntax */
+@keyframes in_img {
+0%   {transform: scale(1.05);}
+100% {transform: scale(1);opacity: 1}
+}
+
+@media screen and (min-width: 900px) and (min-height: 770px){
+.section.active .contenu a, .section.active .contenu .editor, .section.active .txt .editor, .section.active .txt .ti25upp, .section.active .txt .ti40upp, .section.active .contenu .ti40upp, .section.active .img{
+transform: translateY(0);
+opacity : 1;
+transition-delay: 0.2s;
+}
+
+.section .contenu a, .section .txt .editor, .section .txt .ti25upp, .section .txt .ti40upp, .section .contenu .editor, .section .contenu .ti40upp{
+transform: translateY(20px);
+transition: all 0.8s;
+transition-delay: 0s;
+opacity : 0;
+}
+
+.section .img{transition: opacity 0.2s, transform 0.7s;}
+
+.section.active .txt .ti25upp{transition-delay: 0.3s;}
+
+.section.active .txt .ti40upp, .section.active .contenu .ti40upp{transition-delay: 0.4s;}
+
+.section.active .txt .editor, .section.active .contenu .editor{transition-delay: 0.5s;}
+
+.section.active .contenu a{transition-delay: 0.6s;}
+}

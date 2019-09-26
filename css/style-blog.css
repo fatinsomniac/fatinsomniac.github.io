@@ -1,0 +1,145 @@
+body {background-color: #161515; color: #fff;}
+body,h1,h2,h3,h4,h5,h6 {font-family: 'Montserrat', sans-serif;}
+.w3-bar-block .w3-bar-item {padding:20px;}
+body h5{
+  margin: 0;
+  font-weight: bolder;
+}
+body h1, h4{font-weight: bolder;}
+.topnav a::after{
+        content: '';
+        display: block;
+        width: 0;
+        height: 3px;
+        background: #2BBCBB;
+        transition: width .3s;
+    }
+    .topnav a{color: #fff !important;font-weight: bold;margin-right: 20% !important;}
+    .topnav a:hover::after{
+        width: 100%;
+    }
+    .topnav a:hover, a:focus {
+      color: #2BBCBB;
+      text-decoration: none;
+    }
+    .w3-right{margin-right: 6%;}
+    .card{border: none;background-color: #161515;box-shadow: 0px 4px 8px 0 rgba(0,0,0,0.5);}
+    .w3-white{height: 2000%}
+    .shadow-sm a:hover{
+      color: #fff; 
+      text-decoration: underline;
+    }
+    .btn-primary{background-color: #2BBCBB;border-color: #2BBCBB;}
+#favourite {
+  position: relative;
+  /* text-align: center; */
+  padding: 1rem;
+}
+
+
+#favourite .share a {
+  width: 3rem;
+  height: 3rem;
+  display: block;
+  color: #FFF;
+  line-height: 3rem;
+  display: block;
+  font-size: 1.2rem;
+  /* margin: 1rem auto; */
+  margin: 1rem 0 1rem .5rem;
+  text-align: center;
+  border-radius: 2rem;
+  background-color: #161515;
+  border-color: #fff;
+  border-style: solid;
+  border-width: thin;
+  box-shadow: 0px 2px 5px #000000;
+  transition: all .3s;
+}
+
+#favourite .share a:hover {
+  box-shadow: 0px 2px 10px rgba(0,0,0,.16);
+}
+#tagar ul {
+  padding-left: 0px;
+}
+
+#tagar ul li {
+  list-style: none;
+}
+
+#tagar ul li a {
+  /* float: left; */
+  display: inline-block;
+  word-break: break-all;
+  background: #FFFFFF;
+  border: 1px solid #DDDDDD;
+  font-size: .8rem;
+  padding: 5px 10px;
+  border-radius: 5px;
+  margin: 2px 0px;
+}
+
+#tagar ul li a:hover {
+  background: #DDDDDD;
+}
+#page{
+      display: none;
+      }
+    #loading {
+      display: block;
+      position: absolute;
+      top: 0;
+			left: 0;
+      z-index: 9999;
+      width: 100vw;
+      height: 100vh;
+      background-color: #1A1919;
+      background-image: url("/assets/img/senor_underline.jpg");
+      background-size: 200px auto;
+      background-repeat: no-repeat;
+      background-position: center;
+			}
+	   #loading html, body {margin: 0; height: 100%; overflow: hidden}
+    .load {
+      color: white;
+      margin-bottom:10px;
+      display:block;
+    }
+    @media screen and (max-width: 600px){
+        .load{
+          margin-top: 150% !important;
+        }
+      }
+    .w3-main{
+      max-width:1200px;
+      margin-top: 13%
+    }
+    @media screen and (max-width: 600px){
+     .w3-main{
+      margin-top: 30%
+     }
+     .w3-main hr{
+      width: 50%;
+     }
+     .card{
+      padding-bottom: 5%;
+     }
+    .titel-article h1{
+      font-size: 2em;
+      margin-top: 20%;
+      margin-left: -1%;
+    }
+    #favourite .share a{
+      display: inline-block;
+      margin: 0 -7px -1rem 0.5rem;
+    }
+    }
+    .bg-custom{background-color: #161515 !important;}
+    .collapse li .active{color: #2BBCBB !important;}
+    .w-custom {
+    width: 30%!important;
+  }
+  @media screen and (max-width: 600px){
+    .navbar-nav{margin-right: auto !important;}
+  }
