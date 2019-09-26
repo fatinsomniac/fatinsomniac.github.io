@@ -147,18 +147,6 @@ movement</h2>
 
 <!-- <div class="scroll"><span class="txt">Scroll</span><span class="li"></span></div> -->
 <div class="back_top"><span class="txt">Back to top</span><span class="li"></span></div>
-	<div id="loading">
-		<div class="text-center" style="margin-top: 25%;">
-			<span class="load">SEDANG MENUNGGU JODOH NIH BRO . . .</span>
-			<div class="col-xs-12 col-sm-12 progress-container">
-			<center>
-				<div class="progress active" style="height:10px; width: 250px;">
-					<div class="progress-bar progress-bar-primary" style="width:0%"></div>
-				</div>
-			</center>
-			</div>
-		</div>
-	</div>
 <script src="./js/jquery.placeholder.js"></script>
 <script src="./js/reset.js"></script>
 <script src="./js/jquery.fullpage.min.js"></script>
@@ -166,27 +154,3 @@ movement</h2>
 <script src="./js/front.js"></script>
 </body>
 </html>
-<script>
-$(".progress-bar").animate({
-    width: "100%"
-  }, 1500 );
-function onReady(callback) {
-var intervalID = window.setInterval(checkReady, 1000);
-function checkReady() {
-if (document.getElementsByTagName('body')[0] !== undefined) {
-  window.clearInterval(intervalID);
-  callback.call(this);
-}
-}
-}
-
-function show(id, value) {
-    document.getElementById(id).style.display = value ? 'block' : 'none';
-}
-
-  onReady(function () {
-      show('contenu', true);
-      show('loading', false);
-});
-
-</script>
