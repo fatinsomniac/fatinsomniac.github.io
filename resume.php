@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html>
-<title>MA CV</title>
+<title>Resume - Dede Dwi Narantika</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="shortcut icon" href="https://cdn3.iconfinder.com/data/icons/alphabets-and-numbers/98/6-512.png" />
 <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto'>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
@@ -130,13 +131,11 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 
 <footer class="w3-container w3-teal w3-center w3-margin-top">
   <p>Find me on social media.</p>
-  <i class="fa fa-facebook-official w3-hover-opacity"></i>
-  <i class="fa fa-instagram w3-hover-opacity"></i>
-  <i class="fa fa-snapchat w3-hover-opacity"></i>
-  <i class="fa fa-pinterest-p w3-hover-opacity"></i>
-  <i class="fa fa-twitter w3-hover-opacity"></i>
-  <i class="fa fa-linkedin w3-hover-opacity"></i>
-  <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a></p>
+  <a href="https://facebook.com/robotdede" target="_blank"><i class="fa fa-facebook-official w3-hover-opacity"></i></a>
+  <a href="https://instagram.com/fatinsomniac" target="_blank"><i class="fa fa-instagram w3-hover-opacity"></i></a>
+  <a href="https://twitter.com/fatinsomniac" target="_blank"><i class="fa fa-twitter w3-hover-opacity"></i></a>
+  <a href="https://www.linkedin.com/in/fatinsomniac/" target="_blank"><i class="fa fa-linkedin w3-hover-opacity"></i></a>
+  <p>Powered by <a href="index.php" target="_blank">fatinsomniac</a></p>
 </footer>
 
 </body>

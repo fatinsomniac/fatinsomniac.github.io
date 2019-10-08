@@ -25,10 +25,13 @@
         <a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="/work">My Resume</a>
+        <a class="nav-link" href="portofolio.php">Portofolio</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="/#lastPage">Contact</a>
+        <a class="nav-link" href="resume.php">Resume</a>
+      </li>
+      <li class="nav-item">
+        <a class="typeform-share button nav-link" href="https://fatinsomniac.typeform.com/to/EMsrEa" data-mode="popup" target="_blank">Contact </a><script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm_share", b="https://embed.typeform.com/"; if(!gi.call(d,id)){ js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script>
       </li>
     </ul>
   </div>
@@ -39,26 +42,26 @@
         <div class="container">
           <div class="row">
             <div class="col-md-10 offset-md-1 titel-article">
-            <h1>Basic shapes functional on logo design</h1>
+            <h1>Prototype Website FAIP</h1>
             <div class="sub-title mt-3">
-                Posted at 2018-08-30 18:43:05 on ARTIKEL by Yudi Kobo
+                Posted at 2019-10-08 18:43:05 on ARTIKEL by Dede Dwi Narantika
             </div>
-            <img src="https://www.ivyboarding.com/w3template/w3images/lights.jpg" width="100%" class="mt-3">
+            <img src="./img/portofolio/faip/faip.png" width="100%" class="mt-3" style="border: 1px;border-color: #fff;">
             <div class="row mt-5">
               <div class="col-md-3 order-sm-12 order-12 order-md-1 order-lg-1 mb-3">
                 <div id="tagar">
                   <h6>Hastag</h6>
                   <ul>
-                    <li><a href="">#LogoDesign</a></li>
-                    <li><a href="">#BasicShape</a></li>
+                    <li><a href="">#WebsiteFAIP</a></li>
+                    <li><a href="">#UjianInsinyur</a></li>
                   </ul>
                 </div>
                  <div id="favourite" class="mt-4">
                   <div class="share mt-4">
-                    <a target="_blank" href=""><i class="fa fa-behance"></i></a>
-                    <a target="_blank" href=""><i class="fa fa-instagram"></i></a>
-                    <a target="_blank" href=""><i class="fa fa-facebook-f"></i></a>
-                    <a target="_blank" href=""><i class="fa fa-youtube-play"></i></a>
+                    <a target="_blank" href="https://instagram.com/fatinsomniac"><i class="fa fa-instagram"></i></a>
+                    <a target="_blank" href="https://twitter.com/fatinsomniac"><i class="fa fa-twitter"></i></a>
+                    <a target="_blank" href="https://facebook.com/robotdede"><i class="fa fa-facebook-f"></i></a>
+                    <a target="_blank" href="https://github.com/fatinsomniac"><i class="fa fa-github"></i></a>
                   </div>
                 </div>
               </div>
@@ -66,43 +69,26 @@
               <div class="col-md-9 order-sm-1 order-1 order-md-12 order-lg-12">
       
               <p>
-                To make an effective logo, designers have to consider the tiniest components which it is built of and think about the influence they will have on potential clients.
+                Saya pernah magang disalah satu start-up di Jakarta Barat yang bernama Cozer ID anak perusahaan dari PT Senor Technology, di sana saya bekerja sebagai fullstack developer.
               </p>
               <p>
-                Paul Rand said that design is the silent ambassador of your brand. Continuing his thought we can add that a logo design is a heart of a brand identity which presents a personality of a company or a product. If you want to set the connection with the target audience and tell the story of a brand, starting with a logo would be a good choice.
+                Beberapa project pernah saya selesaikan di sana, salah satunya adalah membuat prototype website untuk FAIP, mengaplikasikan design yang di inginkan oleh client dari pihak PII(Persatuan Insinyur Indonesia) menjadi sebuah bentuk website ringan yang saya aplikasikan menggunakan html, css, javascript, dan php native.
               </p>
               <p>
-                Today we describe visual components of a logo which are vital for compelling visual perception and also show practical cases of applying psychology of color and shapes in design for branding.
+                Di bawah ini untuk tampilan menu login Kandidat.
               </p>
               <p>
-                <img src="https://www.ivyboarding.com/w3template/w3images/lights.jpg" alt="" width="100%" />
-                <em>Maskom Logo</em>
+                <img src="./img/portofolio/faip/faip2.png" alt="" width="100%" />
+                <em>Halaman Kandidat</em>
               </p>
               <p>
-                Psychology in logo design
+                Di bawah ini untuk tampilan menu login Majelis Penilai.
               </p>
               <p>
-                To make an effective logo, designers have to consider the tiniest components which it is built of and think about the influence they will have on potential clients. The science studying the impact of various factors on human’s mind and behavior is known as psychology. Knowledge of psychological principles helps to understand human aspirations and motivations which means designers can predict the possible users’ reactions to the certain solutions.
+                <img src="./img/portofolio/faip/faip3.png" alt="" width="100%" />
+                <em>Halaman Majelis Penilai</em>
               </p>
-              <p>
-                People may not notice but mind often reacts to visual objects affecting the emotions and behavior. In our previous articles, we described two psychology branches which study the impact of shapes and colors on people’s visual perception. In short, each color and shape tends to be perceived with its own meaning, so when we look at a visual object our brain receives the certain message and reacts according to what we see.
-              </p>
-              <p>
-                Comprehending the role of the color and shape psychology, design expert can control the meaning a logo contributes. Each component chosen thoughtfully helps people read the meaning of the logo right.
-              </p>
-              <p>
-                Color in logo design
-              </p>
-              <p>
-                The research provided by Colorcom showed that it takes only 90 seconds for people to make a subconscious judgment about a product and between 62% and 90% of that assessment is based on color alone. That’s why the success of the brand strategy depends largely upon the colors chosen for the logo design.
-              </p>
-              <p>
-                Colors are a vital factor for not only the visual appearance of products but also brand recognition. In the article Color in Design: Influence on Users’ Actions we described the meanings of common colors in branding and here is a short sum up.
-              </p>
-              <p>
-                Red. Confidence, youth, and power. Orange. Friendly, warm, and energetic. Yellow. Happiness, optimism, and warmth. Green. Peace, growth, and health. Blue. Trust, security, and stability. Purple. Luxurious, creative, and wise. Black. Reliable, sophisticated, and experienced. White. Simple, calm, and clean.
-              </p>
-              <hr style="border: 2px solid #fff;margin-top: 1%;"><p><strong>Sumber : </strong> <a href="" style="color: #43FFFE;">Google</a></p>
+              <hr style="border: 2px solid #fff;margin-top: 1%;"><p><strong>Link Website : </strong> <a href="http://faip.herokuapp.com/" style="color: #43FFFE;">Website FAIP</a></p>
               </div>
           </div>
         </div>

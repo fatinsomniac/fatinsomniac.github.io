@@ -25,10 +25,13 @@
         <a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="/work">My Resume</a>
+        <a class="nav-link" href="portofolio.php">Portofolio</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="/#lastPage">Contact</a>
+        <a class="nav-link" href="resume.php">Resume</a>
+      </li>
+      <li class="nav-item">
+        <a class="typeform-share button nav-link" href="https://fatinsomniac.typeform.com/to/EMsrEa" data-mode="popup" target="_blank">Contact </a><script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm_share", b="https://embed.typeform.com/"; if(!gi.call(d,id)){ js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script>
       </li>
     </ul>
   </div>
@@ -50,14 +53,14 @@
           <div class="col-md-4 col-sm-12">
             <div class="w3-quarter">
               <div class="card" style="width: 18rem;">
-                <img class="card-img-top" src="https://www.ivyboarding.com/w3template/w3images/lights.jpg" alt="Card image cap" width="100%">
+                <img class="card-img-top" src="./img/portofolio/senor/senor.png" alt="Card image cap" width="100%">
                 <div class="card-body text-justify" style="background-color: #312F2F">
                   <div class="card-title">
-                    <small style="font-size: 0.8em">MAY 2018</small><br>
-                    <a href="artikel.php"><h5 style="color: #43FFFE">Basic shapes functional on logo design</h5></a>
+                    <small style="font-size: 0.8em">OCT 2019</small><br>
+                    <a href="senor.php"><h5 style="color: #43FFFE">Website <br>Senor Production</h5></a>
                   </div>
                   <div class="card-text">
-                    <p>To make an effective logo, designers have to consider the tiniest components which . . . </p>
+                    <p>Saya pernah magang disalah satu start-up di . . . </p>
                   </div>
                 </div>
               </div>
@@ -66,11 +69,11 @@
           <div class="col-md-4 col-sm-12">
             <div class="w3-quarter">
               <div class="card" style="width: 18rem;">
-                <img class="card-img-top" src="https://www.ivyboarding.com/w3template/w3images/lights.jpg" alt="Card image cap" width="100%">
+                <img class="card-img-top" src="./img/portofolio/faip/faip.png" alt="Card image cap" width="100%">
                 <div class="card-body text-justify" style="background-color: #312F2F">
                   <div class="card-title">
-                    <small style="font-size: 0.8em">AUG 2018</small><br>
-                    <a href=""><h5 style="color: #43FFFE">Design a Perfect Logo with Grid and Symmetry</h5></a>
+                    <small style="font-size: 0.8em">OCT 2019</small><br>
+                    <a href="faip.php"><h5 style="color: #43FFFE">Prototype Website FAIP</h5></a>
                   </div>
                   <div class="card-text">
                     <p>Logo design can also be based on both principles. There are scientists that claim . . . </p>
@@ -82,11 +85,11 @@
           <div class="col-md-4 col-sm-12">
             <div class="w3-quarter">
               <div class="card" style="width: 18rem;">
-                <img class="card-img-top" src="https://www.ivyboarding.com/w3template/w3images/lights.jpg" alt="Card image cap" width="100%">
+                <img class="card-img-top" src="./img/portofolio/koperasixyz/koperasixyz.png" alt="Card image cap" width="100%">
                 <div class="card-body text-justify" style="background-color: #312F2F">
                   <div class="card-title">
-                    <small style="font-size: 0.8em">FEB 2018</small><br>
-                    <a href=""><h5 style="color: #43FFFE">What is Chroma Key on Video Editing</h5></a>
+                    <small style="font-size: 0.8em">OCT 2019</small><br>
+                    <a href="comingsoon.php"><h5 style="color: #43FFFE">Website KoperasiXYZ</h5></a>
                   </div>
                   <div class="card-text">
                     <p>In graphics and digital video editing programs, chroma key is a function that renders . . . </p>
@@ -106,11 +109,11 @@
           <div class="col-md-4 col-sm-12">
             <div class="w3-quarter">
               <div class="card" style="width: 18rem;">
-                <img class="card-img-top" src="https://www.ivyboarding.com/w3template/w3images/lights.jpg" alt="Card image cap" width="100%">
+                <img class="card-img-top" src="./img/portofolio/tanah/tanah.png" alt="Card image cap" width="100%">
                 <div class="card-body text-justify" style="background-color: #312F2F">
                   <div class="card-title">
-                    <small style="font-size: 0.8em">MAY 2018</small><br>
-                    <a href=""><h5 style="color: #43FFFE">Basic shapes functional on logo design</h5></a>
+                    <small style="font-size: 0.8em">OCT 2019</small><br>
+                    <a href="comingsoon.php"><h5 style="color: #43FFFE">Sistem dan Alat <br> Monitoring Kualitas <br> Tanah Pertanian</h5></a>
                   </div>
                   <div class="card-text">
                     <p>To make an effective logo, designers have to consider the tiniest components which . . . </p>
@@ -122,11 +125,11 @@
           <div class="col-md-4 col-sm-12">
             <div class="w3-quarter">
               <div class="card" style="width: 18rem;">
-                <img class="card-img-top" src="https://www.ivyboarding.com/w3template/w3images/lights.jpg" alt="Card image cap" width="100%">
+                <img class="card-img-top" src="./img/portofolio/suhu/suhu.png" alt="Card image cap" width="100%">
                 <div class="card-body text-justify" style="background-color: #312F2F">
                   <div class="card-title">
                     <small style="font-size: 0.8em">AUG 2018</small><br>
-                    <a href=""><h5 style="color: #43FFFE">Design a Perfect Logo with Grid and Symmetry</h5></a>
+                    <a href="comingsoon.php"><h5 style="color: #43FFFE">Sistem dan Alat <br> Monitoring Suhu <br> Habitat Marmut</h5></a>
                   </div>
                   <div class="card-text">
                     <p>Logo design can also be based on both principles. There are scientists that claim . . . </p>
@@ -138,67 +141,11 @@
           <div class="col-md-4 col-sm-12">
             <div class="w3-quarter">
               <div class="card" style="width: 18rem;">
-                <img class="card-img-top" src="https://www.ivyboarding.com/w3template/w3images/lights.jpg" alt="Card image cap" width="100%">
+                <img class="card-img-top" src="./img/portofolio/strawberry/strawberry.png" alt="Card image cap" width="100%">
                 <div class="card-body text-justify" style="background-color: #312F2F">
                   <div class="card-title">
                     <small style="font-size: 0.8em">FEB 2018</small><br>
-                    <a href=""><h5 style="color: #43FFFE">What is Chroma Key on Video Editing</h5></a>
-                  </div>
-                  <div class="card-text">
-                    <p>In graphics and digital video editing programs, chroma key is a function that renders . . . </p>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  
-    <!-- Third Content Blog -->
-    <div class="w3-row-padding w3-padding-16 w3-center shadow-sm">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-4 col-sm-12">
-            <div class="w3-quarter">
-              <div class="card" style="width: 18rem;">
-                <img class="card-img-top" src="https://www.ivyboarding.com/w3template/w3images/lights.jpg" alt="Card image cap" width="100%">
-                <div class="card-body text-justify" style="background-color: #312F2F">
-                  <div class="card-title">
-                    <small style="font-size: 0.8em">MAY 2018</small><br>
-                    <a href=""><h5 style="color: #43FFFE">Basic shapes functional on logo design</h5></a>
-                  </div>
-                  <div class="card-text">
-                    <p>To make an effective logo, designers have to consider the tiniest components which . . . </p>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4 col-sm-12">
-            <div class="w3-quarter">
-              <div class="card" style="width: 18rem;">
-                <img class="card-img-top" src="https://www.ivyboarding.com/w3template/w3images/lights.jpg" alt="Card image cap" width="100%">
-                <div class="card-body text-justify" style="background-color: #312F2F">
-                  <div class="card-title">
-                    <small style="font-size: 0.8em">AUG 2018</small><br>
-                    <a href=""><h5 style="color: #43FFFE">Design a Perfect Logo with Grid and Symmetry</h5></a>
-                  </div>
-                  <div class="card-text">
-                    <p>Logo design can also be based on both principles. There are scientists that claim . . . </p>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4 col-sm-12">
-            <div class="w3-quarter">
-              <div class="card" style="width: 18rem;">
-                <img class="card-img-top" src="https://www.ivyboarding.com/w3template/w3images/lights.jpg" alt="Card image cap" width="100%">
-                <div class="card-body text-justify" style="background-color: #312F2F">
-                  <div class="card-title">
-                    <small style="font-size: 0.8em">FEB 2018</small><br>
-                    <a href=""><h5 style="color: #43FFFE">What is Chroma Key on Video Editing</h5></a>
+                    <a href="comingsoon.php"><h5 style="color: #43FFFE">Sistem dan Alat <br> Monitoring <br> Buah Strawberry</h5></a>
                   </div>
                   <div class="card-text">
                     <p>In graphics and digital video editing programs, chroma key is a function that renders . . . </p>
